@@ -1,7 +1,7 @@
 ### Jacob Braswell
 
 * Twitter: [@brazz_j](https://twitter.com/brazz_j)
-* I'm currently studying for the Certified Kubernetes Administrator Exam.  
+* I'm currently studying for the Certified Kubernetes Administrator Exam & the Azure AI-100 exam.  
 
 
 <!--
