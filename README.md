@@ -7,10 +7,12 @@ Certifications
 * Certified Kubernetes Administrator 
 * Azure Fundamentals 
 
-
-- Ask me about SAS and Open source, Kubernetes, Cloud Native Modelops, Cloud Computing 
-
-
+About me
+------------
+- Ask me about SAS and Open source, Kubernetes, Cloud Native MLOps, Cloud Computing 
+- I like running, 日本語, biking
+- Pronouns: He/Him
+- I'm currently learning tekton pipelines, reinforcement learning, and NLP
 - I'm currently studying for the Azure AI-100 exam.  
 
 
