@@ -10,9 +10,10 @@ Certifications
 About me
 ------------
 - Ask me about SAS and Open source, Kubernetes, Cloud Native MLOps, Cloud Computing 
-- I like running, 日本語, biking
+- I like running, 日本語, biking, Python coding and hiking
 - Pronouns: He/Him
-- I'm currently learning tekton pipelines, reinforcement learning, and NLP
+- I'm currently learning OCR, reinforcement learning, and NLP - all of which on mobile devices.
+- I am also currently learning model monitoring techniques using boxkite and other solutions.
 - I'm currently studying for the Azure AI-100 exam.  
 
 
