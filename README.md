@@ -9,7 +9,6 @@ Certifications
 
 About me
 ------------
-- Ask me about SAS and Open source, Kubernetes, Cloud Native MLOps, Cloud Computing 
 - I like running, 日本語, biking, Python coding and hiking
 - Pronouns: He/Him
 - I'm currently learning OCR, reinforcement learning, and NLP - all of which on mobile devices.
