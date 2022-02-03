@@ -13,7 +13,8 @@ About me
 - Pronouns: He/Him
 - I'm currently learning OCR, reinforcement learning, and NLP - all of which on mobile devices.
 - I am also currently learning model monitoring techniques using boxkite and other solutions.
-- I'm currently studying for the Azure AI-100 exam.  
+- I'm currently studying for the GCP ACE exam.
+- I'm working as a MLOps Engineer at Collibra.  
 
 
 <!--
