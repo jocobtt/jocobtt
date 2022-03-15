@@ -6,16 +6,28 @@ Certifications
 --------------
 * Certified Kubernetes Administrator 
 * Azure Fundamentals 
+* Google Cloud Platform Associate Cloud Engineer
 
 About me
 ------------
 - I like running, 日本語, biking, Python coding and hiking
 - Pronouns: He/Him
-- I'm currently learning OCR, reinforcement learning, and NLP - all of which on mobile devices.
+- I'm currently learning OCR, recommendation engines, and NLP (all of which on mobile devices and webhosted applications).
 - I am also currently learning model monitoring techniques using boxkite and other solutions.
-- I'm currently studying for the GCP ACE exam.
+- I love IaC - especially with tools like Terraform and Pulumi.
+- I'm currently studying for CKAD.
 - I'm working as a MLOps Engineer at Collibra.  
 
+Ask me about
+-------------
+- Containerization/k8s
+- MLOps
+- Machine Learning
+- Cloud Engineering
+
+Fun fact
+---------
+I love public transit and cooking! 
 
 <!--
 **jocobtt/jocobtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
