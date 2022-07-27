@@ -27,7 +27,7 @@ Ask me about
 
 Fun fact
 ---------
-I love public transit, running, and cooking! 
+I love public transit and cooking! 
 
 <!--
 **jocobtt/jocobtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
