@@ -10,13 +10,13 @@ Certifications
 
 About me
 ------------
-- I like running, 日本語, biking, Python coding and hiking
+- I like running, 日本語, biking, Python coding, and hiking
 - Pronouns: He/Him
 - I'm currently working on projects OCR, recommendation engines, and NLP (all of which on mobile devices and web based applications) in my spare time.
 - I am also currently learning model monitoring techniques using boxkite, nannyml, and other solutions.
 - I love IaC - especially with tools like Terraform and Pulumi.
 - I'm currently studying for CKAD.
-- I'm working as a MLOps Engineer at Collibra.  
+- I'm working as an MLOps Engineer at Collibra.  
 
 Ask me about
 -------------
