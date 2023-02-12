@@ -1,6 +1,5 @@
 ### Jacob Braswell
 
-* Twitter: [@brazz_j](https://twitter.com/brazz_j)
 
 Certifications
 --------------
@@ -30,4 +29,8 @@ Fun fact
 I love public transit and cooking! 
 
 
+<a href="https://github.com/jocobtt">
+  <!-- Reference: https://github.com/anuraghazra/github-readme-stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jocobtt&count_private=true&theme=algolia&show_icons=true&include_all_commits=true" alt="Jacob's github stats" />
+</a>
 
