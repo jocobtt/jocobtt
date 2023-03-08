@@ -12,7 +12,6 @@ About me
 - I like running, 日本語, biking, Python coding, and hiking
 - Pronouns: He/Him
 - I'm currently working on projects with OCR, recommendation engines, and NLP on web applications hosted on Firebase. 
-- I am also currently learning model monitoring techniques using boxkite, nannyml, and other solutions.
 - I love IaC - especially with tools like Terraform. 
 - I'm currently studying Full Stack Development with Vue and Firebase.
 - I'm working as an MLOps Engineer at Collibra.  
@@ -26,7 +25,7 @@ Ask me about
 
 Fun fact
 ---------
-I love public transit and cooking! 
+I love public transit and cooking! Co-creator of https://www.chatbom.ai/. Check it out! 
 
 
 <h3 align="left">Connect with me:</h3>
