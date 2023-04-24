@@ -14,7 +14,7 @@ About me
 - I'm currently working on projects with OCR, recommendation engines, and NLP on web applications hosted on Firebase. 
 - I love IaC - especially with tools like Terraform. 
 - I'm currently studying Full Stack Development with Vue and Firebase.
-- I'm working as an MLOps Engineer at Collibra.  
+- I'm working as an MLOps Engineer at Booz Allen Hamilton.  
 
 Ask me about
 -------------
