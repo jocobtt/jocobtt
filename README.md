@@ -25,7 +25,9 @@ Ask me about
 
 Fun fact
 ---------
-I love public transit and cooking! Co-creator of https://www.chatbom.ai/ & https://roastmycv.app/. Check it out! 
+I love public transit and cooking! 
+
+Co-creator of https://www.chatbom.ai/ & https://roastmycv.app/. Check it out! 
 
 
 <h3 align="left">Connect with me:</h3>
