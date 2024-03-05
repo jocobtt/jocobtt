@@ -3,6 +3,7 @@
 
 Certifications
 --------------
+* AWS Certified Machine Learning - Specialty
 * Certified Kubernetes Administrator 
 * Azure Fundamentals 
 * Google Cloud Platform Associate Cloud Engineer
@@ -11,7 +12,7 @@ About me
 ------------
 - I like running, 日本語, biking, Python coding, and hiking
 - Pronouns: He/Him
-- I'm currently working on projects AI/ML integrated in web applications hosted on Firebase. 
+- I'm currently working on projects AI/ML integrated in web applications hosted on Firebase and Vercel. 
 - I love IaC - especially with tools like Terraform and Pulumi. 
 - I'm currently studying Full Stack Development with Vue and React hosted on platforms like Firebase and Vercel.
 - I'm working as an MLOps Engineer at Booz Allen Hamilton.  
