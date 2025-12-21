@@ -21,7 +21,7 @@ What I'm Up To
 - Optimizing model deployment with KServe and BentoML in Cloud Native environments
 - Crafting infrastructure as code using Terraform
 - Expanding my full-stack skills with Vue and React, deployed on Firebase and Vercel
-- Currently working as an MLOps Engineer at Booz Allen Hamilton, bridging the gap between data science and production-ready AI systems.
+- Currently working as an Senior AI Solutions Enginner at ... 
 
 Ask me about
 -------------
