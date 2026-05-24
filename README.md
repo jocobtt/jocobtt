@@ -1,6 +1,5 @@
 ### Jacob Braswell
 
-
 Certifications
 --------------
 * AWS Certified Machine Learning - Specialty
@@ -11,33 +10,29 @@ Certifications
 About me
 ------------
 - Passionate about running, biking, hiking, and the great outdoors
-- I love public transit and cooking
+- Devoted to public transit and cooking
 - Python enthusiast and AI/ML practitioner
 - Pronouns: He/Him
 
 What I'm Up To
 ------------
-- Developing AI/ML solutions integrated into scalable web applications
-- Optimizing model deployment with KServe and BentoML in Cloud Native environments
-- Crafting infrastructure as code using Terraform
-- Expanding my full-stack skills with Vue and React, deployed on Firebase and Vercel
-- Currently working as an Senior AI Solutions Enginner at Seekr
+- **At Seekr (Senior AI Solutions Engineer):** Fine-tuning foundation models, configuring GPU infrastructure, and building secure, Sovereign AI deployments.
+- **Agentic AI:** Developing autonomous, self-improving agent architectures integrated into scalable web applications.
+- **LLMOps & MLOps:** Optimizing production model serving using KServe and vLLM in Cloud-Native environments.
+- **Infrastructure as Code:** Crafting robust automation using Terraform and Helm charts.
+- **Full-Stack Side Projects:** Expanding my frontend skills with Vue and React, deployed on Vercel.
 
 Ask me about
 -------------
-- Containerization/k8s
-- MLOps
-- DevOps
-- IaC/Cloud Engineering
-- Machine Learning
-- LLMs/LLMOps
+- Containerization & Kubernetes
+- MLOps / LLMOps / Agentic Systems
+- Fine-Tuning Foundation Models & Sovereign AI
+- DevOps & IaC / Cloud Engineering
+- Applied Machine Learning
 
 Fun fact
 ---------
 I love public transit and cooking! 
-
-Co-creator of https://www.chatbom.ai/ & https://roastmycv.app/. Check it out! 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
