@@ -16,7 +16,7 @@ About me
 
 What I'm Up To
 ------------
-- **At Seekr (Senior AI Solutions Engineer):** Fine-tuning foundation models, configuring GPU infrastructure, and building secure, Sovereign AI deployments.
+- **At Seekr (Staff AI Engineer):** Fine-tuning foundation models, configuring GPU infrastructure, and building secure, Sovereign AI deployments.
 - **Agentic AI:** Developing autonomous, self-improving agent architectures integrated into scalable web applications.
 - **LLMOps & MLOps:** Optimizing production model serving using KServe and vLLM in Cloud-Native environments.
 - **Infrastructure as Code:** Crafting robust automation using Terraform and Helm charts.
